@@ -1,0 +1,153 @@
+{
+  "store": [
+    {
+      "name":"Pet Store Durán",
+      "image":"https://lh5.googleusercontent.com/p/AF1QipPX0offn12PQ57UXyMEvMYgltqyRjGR6iaTAFXG=w426-h240-k-no",
+      "description":"La mejor calidad en productos para tus mascotas.",
+      "location":{
+        "lat":-2.1782683,
+        "lng":-79.8234841
+      },
+      "category":"store",
+      "callphone":"+593995217308",
+      "wsphone":"+593995217308",
+      "schedule":{
+        "ini":"9:00",
+        "end":"17:00"
+      }
+    },
+        {
+      "name":"CITY PET BUENA VISTA PLAZA",
+      "image":"https://lh5.googleusercontent.com/p/AF1QipPRx9mqZNHJyU1Hy3fg1peM3gWd68TyI3lK8oiN=w408-h725-k-no",
+      "description":"La mejor calidad en productos para tus mascotas.",
+      "location":{
+        "lat":-2.1619855,
+        "lng":-79.8501267
+      },
+      "category":"store",
+      "callphone":"+59346031400",
+      "wsphone":"+593995217308",
+      "schedule":{
+        "ini":"9:00",
+        "end":"19:00"
+      }
+    },
+        {
+      "name":"Puppy Pet",
+      "image":"https://lh4.googleusercontent.com/O3AK4l_YWqAGfNtIETaajHY-mapNA3Tf_9kIwsU4ULpFI3fnnq51vgKNg6Y5oHxV=w408-h306-k-no",
+      "description":"La mejor calidad en productos para tus mascotas.",
+      "location":{
+        "lat":-2.1534947,
+        "lng":-79.8805938
+      },
+      "category":"store",
+      "callphone":"+593986708393",
+      "wsphone":"+593986708393",
+      "schedule":{
+        "ini":"10:00",
+        "end":"18:00"
+      }
+    }
+    ],
+  "vet":[
+    {
+      "name":"CLINICA VETERINARIA DR. SANGA",
+      "image":"https://lh5.googleusercontent.com/p/AF1QipOpzwMBodgqtJEiaZkhTXKCTt_vjafmB3yZisxt=w408-h306-k-no",
+      "description":"Procuramos la salud de su mascota al 100%",
+      "location":{
+        "lat":-2.1669827,
+        "lng":-79.8426482
+      },
+      "category":"vet",
+      "callphone":"+593994683788",
+      "wsphone":"+593994683788",
+      "schedule":{
+        "ini":"9:00",
+        "end":"18:30"
+      }
+    },
+      {
+      "name":"Veterinaria Guauu Miauu",
+      "image":"https://lh5.googleusercontent.com/Qar94dRTrnxTUbJNfJjwPwUJPJImJP5ZaOj_6bx_yV09Y06ufbt0Fbg707EdQZQ=w408-h306-k-no",
+      "description":"Procuramos la salud de su mascota al 100%",
+      "location":{
+        "lat":-2.1574418,
+        "lng":-79.8390392
+      },
+      "category":"vet",
+      "callphone":"+59342866747",
+      "wsphone":"+593994683788",
+      "schedule":{
+        "ini":"9:00",
+        "end":"17:00"
+      }
+    },
+      {
+      "name":"Veterinaria Cocky Pets",
+      "image":"https://lh5.googleusercontent.com/p/AF1QipNFWARRKtB-RR7NVurPoRlbLdj6Xm1lzkSRlMwe=w426-h240-k-no",
+      "description":"Procuramos la salud de su mascota al 100%",
+      "location":{
+        "lat":-2.1723497,
+        "lng":-79.8258052
+      },
+      "category":"vet",
+      "callphone":"+593987830588",
+      "wsphone":"+593987830588",
+      "schedule":{
+        "ini":"8:30",
+        "end":"19:00"
+      }
+    },
+          {
+      "name":"doctor guau",
+      "image":"https://lh6.googleusercontent.com/WsnEzoal-SsWXxJqekEF1m2QZqotW0L6OtvlnIq1Hz8whBOWLGLKhMctSWqpw4cicA=w408-h408-k-no",
+      "description":"Procuramos la salud de su mascota al 100%",
+      "location":{
+        "lat":-2.1420484,
+        "lng":-79.8662161
+      },
+      "category":"vet",
+      "callphone":"+593987830588",
+      "wsphone":"+593987830588",
+      "schedule":{
+        "ini":"9:00",
+        "end":"17:00"
+      }
+    },
+          {
+      "name":"Centro Veterinario El Hasky",
+      "image":"https://lh5.googleusercontent.com/p/AF1QipMXXZ5rc-Q1Gk-VY4jtQcMeVTCuO5NcSqRlI8NC=w408-h424-k-no",
+      "description":"Procuramos la salud de su mascota al 100%",
+      "location":{
+        "lat":-2.2332889,
+        "lng":-79.8579461
+      },
+      "category":"vet",
+      "callphone":"+59345034981",
+      "wsphone":"+593987830588",
+      "schedule":{
+        "ini":"8:30",
+        "end":"18:30"
+      }
+    }
+    
+    ],
+  "park":[
+    {
+      "name":"Parque Samanes",
+      "image":"https://lh5.googleusercontent.com/p/AF1QipMXMCJGUYgPe8WA5eEuNnb3PEkBez2GRDMEtsOf=w425-h240-k-no",
+      "description":"Un lugar limpio y comodo para tu mascota.",
+      "location":{
+        "lat":-2.103585,
+        "lng":-79.8986017
+      },
+      "category":"park",
+      "callphone":"+59343714940",
+      "wsphone":"+593987830588",
+      "schedule":{
+        "ini":"6:00",
+        "end":"23:00"
+      }
+    }
+    ]
+}
